@@ -1,13 +1,11 @@
 ## About Me
 
-What's up? hey\|you
-
-I am an awesome student at Lehigh, you should hire me!
+Hi, my name is Evan DeBlase. I am a senior at Lehigh University studying finance and accounting. I have particular interest in real estate finance, from valuation to development. I am graduating in May planning to begin my career with SEI doing fund accounting.
 
 <!-- Upload your own photo and change the path -->
 
 <p style="text-align:center;">
-  <img class="img-circle" src="https://github.com/donbowen/donbowen.github.io/raw/master/images/logo.png" width="50%">
+  <img class="img-circle" src="https://github.com/evandeblase/evandeblase.github.io/blob/master/images/Me.png" width="50%">
 </p>
 
 ---
