@@ -5,7 +5,7 @@ Hi, my name is Evan DeBlase. I am a senior at Lehigh University studying finance
 <!-- Upload your own photo and change the path -->
 
 <p style="text-align:center;">
-  <img class="img-circle" src="https://github.com/evandeblase/evandeblase.github.io/blob/master/images/Me.png" width="50%">
+  <img class="img-circle" src="/images/Me.png?raw=True" width="50%">
 </p>
 
 ---
