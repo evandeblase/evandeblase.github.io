@@ -1,3 +1,6 @@
+---
+layout: wide_default
+---    
 ## About Me
 
 Hi, my name is Evan DeBlase. I am a senior at Lehigh University studying finance and accounting. I have particular interest in real estate, anything from the financial aspect of valuation to practical development. I am graduating in May planning to begin my career in accounting with SEI. 
@@ -11,9 +14,7 @@ Hi, my name is Evan DeBlase. I am a senior at Lehigh University studying finance
 <!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
 
 _**[10K Sentiment and its Immediate Affect on Return](report)**_
----
-layout: wide_default
----    
+
 # ASSIGNMENT 5: TEXTUAL ANALYSIS FOR 10-K REPORTS
 ## Summary
 &nbsp;&nbsp;&nbsp;&nbsp;The question for this analysis is, does the sentiment of a 10-K filing have any immediate (within 10 days) affect on the company's stock performance? To conduct this analysis, I calculated positive and negative sentiment scores for each 10-K for firms in the S&P 500 and compared those scores to the stock return. <br>
