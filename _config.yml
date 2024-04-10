@@ -1,5 +1,5 @@
 title: Evan DeBlase # your name (or website title) here
-logo: <img class="img-circle" src="/images/Me.png?raw=True" width="50%"> # your photo (or logo) here
+logo: "images/Me.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
 
   <br><br>
