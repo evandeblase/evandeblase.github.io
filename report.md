@@ -1,3 +1,6 @@
+---
+layout: wide_default
+---    
 # ASSIGNMENT 5: TEXTUAL ANALYSIS FOR 10-K REPORTS
 ## Summary
 &nbsp;&nbsp;&nbsp;&nbsp;The question for this analysis is, does the sentiment of a 10-K filing have any immediate (within 10 days) affect on the company's stock performance? To conduct this analysis, I calculated positive and negative sentiment scores for each 10-K for firms in the S&P 500 and compared those scores to the stock return. <br>
