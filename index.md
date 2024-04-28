@@ -133,7 +133,7 @@ Our team project tracks the portfolios of congress members and their returns. We
 
 ---
 
-_**[Some personal project](/pdf/sample_presentation.pdf)**_
+_**[Some personal project](/pdf/OldBridge_Valuation_Report_REAL348.pdf)**_
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
