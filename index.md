@@ -41,8 +41,10 @@ Our team project tracks the portfolios of congress members and their returns. We
 
 ---
 
-_**[Some personal project](/pdf/OldBridge_Valuation_Report_REAL348.pdf)**_
-
+_**[Apartment Complex Valuation](/pdf/OldBridge_Valuation_Report_REAL348.pdf)**_
+<br>
+<br>
+This project was for my Real Estate Capstone class, and its goal was to provide judges with a detailed analysis of the property AvalonBay Old Bridge in Old Bridge, NJ. Our team conducted three different valuation analyses, including a Sales Comparable value, Discounted Cash Flow, and a Direct Capitalization value. The image below is the cover page for the report.
 <img src="images/cover_page.png"/>
 
 ---
