@@ -126,7 +126,8 @@ Or: The process that created this page can be used to show off your whole midter
 
 ---
 
-_**[Eventual team project](https://donbowen.github.io/teamproject/)**_
+_**[Eventual team project]([https://donbowen.github.io/teamproject/](https://github.com/adrianmross/congress_trades_dashboard))**_
+Our team project tracks the portfolios of congress members and their returns. We estimate their portfolio value based on their buys and sells of stocks because the information of their portfolios is not publicly available. We also flag trades for insider trading, based on whether or not the sit on a committee that directly influences the legislation of a stock they buy.
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
