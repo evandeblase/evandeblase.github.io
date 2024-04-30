@@ -21,18 +21,9 @@ This project was for a midterm assignment in my data science for finance course.
 <br>
 We then calculated the correlation between the two variables: sentiment and return. Sentiment was captures 10 different ways, searching a total of five different dictionaries. For example, the 'positive' term dictionaries searched 10K reports for 'positive' words and then assigned a score based on the volume of those words. I created three dictionaries based on different topics that may be discussed in the 10K report, and how positively or negatively they were talked about. The three dictionaries were based on the following: Litigation, Regulation, and Financing Terms.
 
-
 ---
 
-_**[Regression Practice](Regression_practice)**_
-
-Or: The process that created this page can be used to show off your whole midterm analysis file, as is.
-
-<!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
-
----
-
-_**[Eventual team project]([https://donbowen.github.io/teamproject/](https://github.com/adrianmross/congress_trades_dashboard))**_
+_**[Congress Trades Dashboard]([https://github.com/adrianmross/congress_trades_dashboard])**_
 <br>
 <br>
 Our team project tracks the portfolios of congress members and their returns. We estimate their portfolio value based on their buys and sells of stocks because the information of their portfolios is not publicly available. We also flag trades for insider trading, based on whether or not the sit on a committee that directly influences the legislation of a stock they buy.
