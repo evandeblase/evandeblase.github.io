@@ -23,12 +23,12 @@ We then calculated the correlation between the two variables: sentiment and retu
 
 ---
 
-_**[Congress Trades Dashboard]([https://github.com/adrianmross/congress_trades_dashboard])**_
+_**[Congress Trades Dashboard]([https://sus-congress.streamlit.app/])**_
 <br>
 <br>
 Our team project tracks the portfolios of congress members and their returns. We estimate their portfolio value based on their buys and sells of stocks because the information of their portfolios is not publicly available. We also flag trades for insider trading, based on whether or not the sit on a committee that directly influences the legislation of a stock they buy.
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
 ---
 
