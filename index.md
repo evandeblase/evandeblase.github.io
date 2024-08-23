@@ -3,7 +3,7 @@ layout: wide_default
 ---    
 ## About Me
 
-Hi, my name is Evan DeBlase. I am an alumnus of Lehigh University, holding a Bachelor of Science degree in Finance and Accounting, with a minor in Real Estate. My greatest strengths are my curious mind and determination and I search for ways to think differently and never get complacent with the growth of my abilities and passion.
+Hi, my name is Evan DeBlase. I am an alumnus of Lehigh University, holding a Bachelor of Science degree in Finance and Accounting, with a minor in Real Estate. My greatest strengths are my curious mind and determination as I search for ways to think differently and never get complacent with the growth of my abilities and passion.
 
 <!-- Upload your own photo and change the path -->
 
@@ -20,6 +20,9 @@ This project was for a midterm assignment in my data science for finance course.
 <br>
 <br>
 I then calculated the correlation between the two variables: sentiment and return. Sentiment was captures 10 different ways, searching a total of five different dictionaries. For example, the 'positive' term dictionaries searched 10K reports for 'positive' words and then assigned a score based on the volume of those words. I created three dictionaries based on different topics that may be discussed in the 10K report, and how positively or negatively they were talked about. The three dictionaries were based on the following: Litigation, Regulation, and Financing Terms.
+<br>
+<br>
+Clicking the title above will take you to the final report.
 
 ---
 
