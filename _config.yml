@@ -7,6 +7,6 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br>
   <a href="https://github.com/evandeblase">GitHub</a>  
   <br>
-  <a href="images/Evan DeBlase Resume.pdf" class="btn btn--info">Resume</a>
+  <a href="images/EvanDeBlaseResume.pdf" class="btn btn--info">Resume</a>
   
 theme: jekyll-theme-minimal
